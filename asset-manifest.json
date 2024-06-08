@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/siwill9163/SiSocial.git/static/css/main.ebbc6327.css",
+    "main.js": "/siwill9163/SiSocial.git/static/js/main.780ebd74.js",
+    "static/js/453.bbde1306.chunk.js": "/siwill9163/SiSocial.git/static/js/453.bbde1306.chunk.js",
+    "index.html": "/siwill9163/SiSocial.git/index.html",
+    "main.ebbc6327.css.map": "/siwill9163/SiSocial.git/static/css/main.ebbc6327.css.map",
+    "main.780ebd74.js.map": "/siwill9163/SiSocial.git/static/js/main.780ebd74.js.map",
+    "453.bbde1306.chunk.js.map": "/siwill9163/SiSocial.git/static/js/453.bbde1306.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebbc6327.css",
+    "static/js/main.780ebd74.js"
+  ]
+}
